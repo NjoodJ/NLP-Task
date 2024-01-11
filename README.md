@@ -2,7 +2,7 @@
 This project is a small demonstration of Natural Language Processing (NLP) tasks using Python. It showcases various NLP techniques and libraries to process and analyze text data.
   
 <p align="center">
-  <img width="460" height="300" src="download.png">
+  <img width="700" height="500" src="download.png">
 </p>
 
 # Project Overview
