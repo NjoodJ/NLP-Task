@@ -1,35 +1,36 @@
 # NLP Project
 This project is a small demonstration of Natural Language Processing (NLP) tasks using Python. It showcases various NLP techniques and libraries to process and analyze text data.
+<p align="center">
 
 ![download](https://github.com/NjoodJ/NLP-Task/assets/93571826/6d57a1f1-7ec7-44c4-bfd4-40a21da74d32)
 
-
+</p>
 # Project Overview
 The NLP project aims to perform the following tasks:
 
-1: Tokenization: Demonstrates tokenization techniques for text data.
+1- Tokenization: Demonstrates tokenization techniques for text data.
 
-2: Visualizing Tweets and Logistic Regression Models: Explores visualizing tweets and implementing logistic regression models.
+2- Visualizing Tweets and Logistic Regression Models: Explores visualizing tweets and implementing logistic regression models.
 
-3-Sentiment_analysis_for_Arabic_Tweets: Performs sentiment analysis on Arabic tweets.
+3- Sentiment_analysis_for_Arabic_Tweets: Performs sentiment analysis on Arabic tweets.
 
-4-Preprocessing_for_Arabic_Tweets: Covers preprocessing techniques for Arabic tweets.
+4- Preprocessing_for_Arabic_Tweets: Covers preprocessing techniques for Arabic tweets.
 
-5-WordCloud_for_Arabic_data: Generates word clouds for Arabic data.
+5- WordCloud_for_Arabic_data: Generates word clouds for Arabic data.
 
-6-Topic_Modeling: Focuses on topic modeling.
+6- Topic_Modeling: Focuses on topic modeling.
 
-7-GloVe_File: Includes working with GloVe file embeddings.
+7- GloVe_File: Includes working with GloVe file embeddings.
 
-8-Flask_API: Contains Flask API code for the project.
+8- Flask_API: Contains Flask API code for the project.
 
-9-Building the Vocabulary: Demonstrates building the vocabulary for NLP tasks.
+9- Building the Vocabulary: Demonstrates building the vocabulary for NLP tasks.
 
-10-Candidates_from_edits: Explores candidate extraction from edits.
+10- Candidates_from_edits: Explores candidate extraction from edits.
 
 11- Stemming: Demonstrates stemming techniques for text data.
 
-12-Lemmatization: Covers lemmatization techniques for text data.
+12- Lemmatization: Covers lemmatization techniques for text data.
 
 13- Bag-of-Words: Focuses on the Bag-of-Words model.
 
@@ -41,7 +42,7 @@ The NLP project aims to perform the following tasks:
 
 17- Preprocessing: Demonstrates general text preprocessing techniques.
 
-18-Visualizing_word_frequencies: Explores visualizing word frequencies.
+18- Visualizing_word_frequencies: Explores visualizing word frequencies.
 
 
 # Contributing
