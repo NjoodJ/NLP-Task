@@ -1,7 +1,7 @@
-NLP Project
+# NLP Project
 This project is a small demonstration of Natural Language Processing (NLP) tasks using Python. It showcases various NLP techniques and libraries to process and analyze text data.
 
-Project Overview
+# Project Overview
 The NLP project aims to perform the following tasks:
 1: Tokenization: Demonstrates tokenization techniques for text data.
 2: Visualizing Tweets and Logistic Regression Models: Explores visualizing tweets and implementing logistic regression models.
@@ -23,5 +23,5 @@ The NLP project aims to perform the following tasks:
 18-Visualizing_word_frequencies: Explores visualizing word frequencies.
 
 
-Contributing
+# Contributing
 Contributions to this project are welcome! Feel free to open a pull request if you find any issues or want to enhance the project with additional NLP tasks or improvements.
