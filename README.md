@@ -2,7 +2,9 @@
 This project is a small demonstration of Natural Language Processing (NLP) tasks using Python. It showcases various NLP techniques and libraries to process and analyze text data.
 
 <p align="center">
+  
 ![download](https://github.com/NjoodJ/NLP-Task/assets/93571826/b7626cdf-0b90-4ac8-a10c-876c5418e135)
+
 </p>
 
 # Project Overview
